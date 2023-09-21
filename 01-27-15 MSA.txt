@@ -1,0 +1,676 @@
+yy
+ay?
+
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this “Agreement”), is made as of January 1, 2015 (the “Effective Date”), by and
+between Novitex Enterprise Solutions, Inc., a Delaware corporation, with a principal place of business at 300 First Stamford
+
+Place, Second Floor West, Stamford, Connecticut 06902 (‘“Novitex’’), and Blackhawk Network, Inc., an Arizona corporation
+with a place of business at 6220 Stoneridge Mall Road, Pleasanton, CA 94588 (“Customer”).
+
+SECTION 1. Scope. During the Term (defined below), the parties may enter into one or more statements(s) of work, each
+of which will become effective when signed by both parties (each, a “SOM”)., Each SOW will set forth the services to be
+provided (the “Services”), the fees for the Services and any other applicable terms. Each SOW will be governed by this
+
+Agreement; if there is a conflict between a SOW and this Agreement, the SOW will control.
+
+SECTION 2. Standards of Performance; Warranty. The Services will be performed in a skillful and workmanlike manner
+consistent with the standards of performance set forth in the applicable SOW (the “Performance Standards”). If Novitex fails
+to meet the Performance Standards, upon written notice, Novitex will promptly correct or redo the applicable component of
+the Service at no additional cost. If Novitex is not able to correct or redo the applicable component of Service within thirty (30)
+days of receiving notice, Customer shall have the right to terminate the applicable SOW pursuant to the terms of Section 9(d).
+THE EXPRESS REPRESENTATIONS AND WARRANTIES CONTAINED IN THIS AGREEMENT ARE NOVITEX’S
+ONLY REPRESENTATIONS AND WARRANTIES. NOVITEX EXPRESSLY DISCLAIMS ANY AND ALL OTHER
+REPRESENTATIONS OR WARRANTIES OF ANY KIND OR NATURE, EXPRESS OR IMPLIED.
+
+SECTION 3. Personnel.
+
+(a) Novitex will be solely responsible for the supervision, daily direction, control, and payment (including paying all
+benefits (i.e., workers’ compensation and disability) and employer taxes). No Novitex employee will be eligible for
+Customer’s employee benefits.
+
+(b) During the term of this Agreement and for one (1) year thereafter, Customer agrees it will not (i) hire any employee
+of Novitex (an “Employee”) who is providing or has provided Services at any time during the term of this
+Agreement or has provided administrative or management services in connection with this Agreement or an SOW;
+(ii) solicit, entice, induce or encourage any Employee who is providing or has provided Services at any time during
+the term of this Agreement or an SOW or has provided administrative or management services in connection with
+this Agreement or an SOW to become employed or retained by Customer or any other entity for the purpose of
+providing services similar to the Services; or (iii) approach any such Employee for such purpose or authorize,
+facilitate or knowingly approve the taking of such actions by any other entity, in each case without the written
+consent of Novitex. This provision will survive the termination of this Agreement. If Customer violates this Section,
+Customer agrees to pay Novitex an amount equal to the greater of: (i) $15,000 or (ii) (y) the annual salary of each
+such employee involved, calculated at the last applicable rate of pay of each such former employee.
+
+SECTION 4. Prices and Payment Terms,
+
+(a) The fees for the Services are set forth in the applicable SOW. All fees are exclusive of all taxes and similar charges
+that are based on or measured by the fees (plus an amount equal to any associated penalties and interest) which will
+be billed to Customer, if required or permitted by a tax authority to be collected and paid by Novitex.
+
+(b) Fees will be invoiced at the end of each month for services provided in that month.
+
+Vealis
+
+(c) Novitex will invoice Customer monthly, or more frequently if set forth in the SOW. Payments are due thirty (30)
+days of the invoice date and will be remitted by electronic funds transfer. All amounts that are thirty (30) days past G 7
+
+p08"
+
+Page | of 9 Novitex Confidential and Proprietary Information
+
+ 
+
+Doc ID: 20150114075249469
+Sertiff Electronic Signature
+due will be subject to a monthly service charge of 1.0% of the outstanding balance (or such other amount as
+
+permitted by local law). aac ee
+
+(d) Novitex will keep records of the amounts billed to, and paid by, Customer in accordance with generally accepted
+accounting principles. To verify the accuracy of the billings, Customer will have access to those records upon prior
+written request, at all reasonable and non-disruptive times during normal business hours.
+
+SECTION 5. Indemnification.
+
+(a) Each party will indemnify and hold harmless the other party, its respective directors, officers and employees, from all
+losses, claims, damages and expenses (including without limitation court costs and reasonable attorneys’ fees)
+(“Losses”) asserted against the other party by third partics alleging (i) bodily injury (including death), (ii) loss of
+tangible personal property (excluding loss or damage to data, software and other forms of information), (iii) breach of
+a third party’s confidential information, or (iv) infringement of a third party’s intellectual property property rights,
+each to the extent caused by the negligent acts or misconduct of the indemnifying party.
+
+(b) Customer will be responsible for ensuring that tt has the appropriate rights (including the right to provide to Novitex)
+to all data, materials or other information that Novitex copies, uses, processes, stores or distributes, as applicable, on
+its behalf and will indemnify and hold harmless Novitex, from and against all Losses from a violation of the foregoing.
+
+(c ) The party claiming indemnification (the “/ndenmified Party”) will promptly notify the other party (the “Jndemnifying
+Party”) of aclaim. The Indemnifying Party will have the right to control the defense of the claim including the right,
+with the consent of the Indemnified Party (which consent will not be unreasonably withheld, conditioned or delayed),
+to compromise or settle the claim. The Indemnified Party will participate in the defense if requested to do so by the
+Indemnifying Party and will be reimbursed for its reasonable direct out-of-pocket expenses incurred as a result of such
+
+participation.
+SECTION 6. Insurance.
+
+(a) Novitex will maintain the following insurance with the limits below, with carriers that maintain an A.M. Best rating
+of A- or better at the time of issuance.
+
+General Liability $1,000,000/occurrence
+$2,000,000/aggregate
+Workers’ Compensation Statutory Limits
+
+Employer's Liability
+
+e Bodily Injury by $1,000,000
+Accident
+e —_ Bodily Injury by $1,000,000
+Disease
+Automobile Liability $1,000,000
+Excess/Umbrella Liability $2,000,000
+
+(b) Upon request, Novitex will provide Customer a standard form Certificate of Insurance including Customer as an
+additional insured under Novitex's general liability coverage with respect to provision of Novitex’s Services at
+Customer’s center(s), if applicable. Should any of the above described policies be cancelled before the expiration date
+thereof, notice will be delivered in accordance with policy provisions.
+
+ 
+
+kel a net tA SAIN Ns AASB LALA IAA Arh eT AETRANARYA DrerihsanlAA adie atime Anh
+
+Page 2 of 9 Novitex Confidential and Proprietary Information
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+SECTION 7. Confidentiality; Intellectual Property.
+
+(a)
+
+(b)
+
+(c)
+
+In providing the Services, Novitex may have access to Customer’s confidential or proprietary information. Novitex
+agrees to hold such information in confidence and only use such information to provide the Services, and, upon
+termination of this Agreement shall return all such information. Novitex will also cause its employees who require
+access to such information to abide by such obligations. The foregoing obligations do not apply to information that:
+(a) is already public or becomes available to the public through no breach of this Agreement; or (b) was in Novitex’s
+possession prior to receipt from the Customer; or (c) is lawfully received independently from a third party who is not
+bound by a confidentiality obligation to Customer; or, (d) is independently developed by or on behalf of Novitex
+without use of any confidential/proprietary Customer information.
+
+Customer retains all of its rights in the data it provides to Novitex (“Customer Data’’) and grants Novitex the right to
+use such Data as necessary to provide the Services. Customer will own the copyright to all works consisting of
+processed Customer Data that is first created as a deliverable output of the Services (“Work Product”), which will be
+considered work for hire. Except for Customer Data and Work Product, all rights in and to the any Intellectual
+Property used or disclosed by Novitex in providing the Services, whether developed prior to, during or after the date
+of this Agreement, are and will remain the sole and exclusive property of Novitex and its licensors (“Novitex
+Information’). Customer agrees to maintain the confidentiality of the Novitex Information and not use such Novitex
+Information for any purpose not directly related to the provision of Services by Novitex and, upon termination of this
+Agreement shall return all Novitex Information.
+
+Each party will keep confidential the terms and conditions of this Agreement, and Novitex will not disclose
+Customer's name or any information relating to this Agreement in any manner other than expressly in accordance
+with this Agreement without Customer’s prior written consent; provided that Novitex may list Customer’s name as a
+Novitex customer in its marketing and bid solicitation materials and to its auditors and attorneys who have a need to
+know this information. The provisions of this Section survive termination of this Agreement as necessary to effect its
+
+purpose.
+
+SECTION 8, Limits on Liability.
+
+a) Direct Damages. Novitex’s total liability under an SOW for any and all claims proven to have been caused by Novitex,
+
+at law or equity, will not exceed the sums paid by Customer under the applicable SOW during the previous twelve
+(12) months period; provided that, if the claim arises before twelve (12) months have elapsed, Novitex’s maximum
+liability shall not exceed the average monthly fees paid under the SOW multiplied by twelve.
+
+In no event will Novitex be liable for more than One Hundred Dollars ($100) per document, envelope, package, or
+supplies that is proven to have been in Novitex’s care, custody and control in the event of physical loss, damage, or
+delay in delivery, notwithstanding any provision in the Agreement to the contrary. Novitex will not be responsible for
+transmission errors, corruption of data or for the security of transmission of data during transmission, unless proven
+to have been the fault of Novitex,
+
+These limitations do not apply to (a) third party indemnification claims asserted by Customer under Section 5(a) or
+(b) for claims that are proven to have been caused by a party’s grossnegligence, willful misconduct or fraud.
+
+b) Indirect Damages. Neither party will be liable for special, punitive, incidental, consequential or indirect damages,
+
+including without limitation lost profits, loss of data, or business opportunity,
+
+SECTION 9. Term; Termination.
+
+(a) Term.
+
+ett Nett eet hk st A hee eae mA Mn he Ne Rh ANAL RA ET Tp finsimn ts AA Abe At ete reintrtntctte mts nnA AN
+
+(i)
+
+This Agreement will start on the Effective Date and will continue for a period of three (3) years. Thereafter, this
+Agreement will renew for successive one-year periods unless terminated by either party upon written notice at least
+ninety (90) days prior to the next renewal date.
+
+ 
+
+Aaa Ln manrmnmnmnnetiaasneuiiinD Iola
+
+Page 3 of 9 Novitex Confidential and Proprietary Information
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+(ii)
+
+Each SOW will be effective on the Commencement Date set forth in the SOW and will remain in effect, unless
+terminated sooner as provided below, for the term set forth therein. Notwithstanding anything to the contrary, any
+SOW entered into prior to the termination of this Agreement will remain in full force and effect for its entire term
+and any provisions contained in this Agreement that apply to the SOW will remain in full force and effect until the
+expiration or termination of the SOW.
+
+(b) Termination.
+
+(i)
+
+(ii)
+
+(iii)
+
+Subject to Section 9.b(ii), either party has the right to terminate a SOW immediately if the other party breaches a
+material term, and the breach continues for a period of fifteen days (in the case of non-payment of undisputed
+amounts) and thirty (30) days (in the case of any other breach) after receiving written notice. Termination will be
+the sole remedy, except that the foregoing will not preclude a party’s ability to pursue other remedies for claims
+that are made prior to termination.
+
+In the event that Customer’s claim for Novitex’s breach arises from Novitex’s repeated failure to meet the
+Performance Standards, within fifteen (15) business days of receiving written notice, Novitex will either correct
+the deficiency or submit a corrective action plan (the “Plan”). If Novitex fails to correct the deficiencies or comply
+with the Plan within the time specified in the Plan, Customer will have the option to terminate the SOW upon thirty
+(30) days written notice.
+
+In addition to all other rights and remedies provided for in this Agreement or by law, either party shall have the
+right to terminate a SOW in the event that: (i) the other party makes a general assignment for the benefit of its
+creditors, (ii) a trustee, custodian or receiver is appointed by any court, other than a United States Bankruptcy
+Court, with respect to the other party or any substantial part of such party’s assets, or (iii) the other party becomes
+insolvent.
+
+(c) Either party shall have the right to terminate the Agreement or an SOW for convenience upon ninety (90) days prior
+written notice to the other party.
+
+(d) Upon expiration of this Agreement at the end of the Term or upon termination of this Agreement or an SOW by
+Customer solely for its convenience or by Novitex as a result of Customer’s breach , Customer agrees to;
+
+@)
+
+(ii)
+
+(iii)
+
+(iv)
+
+Purchase from Novitex any and all equipment listed herein and used to perform the Services during the term of
+the applicable SOW, at net book value;
+
+Assume all obligations of Novitex under any rent, lease or maintenance agreements that are assignable for
+equipment held by Novitex to provide the Services, after which assumption, such equipment will be transferred
+to Customer and all rights and obligations of Novitex with respect to such Equipment will terminate;
+
+Reimburse Novitex for all costs of supplies purchased to provide the Services, after which reimbursement, said
+supplies will be transferred to and become the property of Customer; and
+
+Pay to Novitex any other direct costs (such as severance obligations payment requirements under any rent, lease
+or maintenance agreements that cannot be assigned including, without limitation, early termination penalties),
+incurred by Novitex as a result of the termination of the applicable SOW.
+
+(e) Except as provided in a SOW, a party’s sole obligation with respect to any termination will be, as applicable, to pay
+any amounts due, or to give any credit due, for Services rendered prior to the effective date of termination.
+
+SECTION 10. Force Majeure. Neither party will be held responsible or incur liability for any delay/failure to the extent it
+results from causes beyond its control, including but not limited to fire, éxplosion, act of terrorism, war, labor dispute, embargo,
+government order or requirement, civil or military authority, natural disaster, epidemic, general internet or communication line
+failures, power surges or other similar types of situations. If such situation occurs, the affected party will give prompt written
+notice to the other party and will use its commercially reasonable efforts to resume operations as soon as practicable. If
+operations cannot be resumed within a period of thirty (30) days, the affected party will have the option to terminate the affected
+portion of the applicable SOW by giving prior written notice, provided, however, that in the event of a labor dispute the party,
+
+roi npnee ttn ALA LaEn iNTERNAL et A eA a ANT NTN
+
+copes eee re saa an nr ta Lasaneeeinnaminns ome
+
+Page 4 of 9 Novitex Confidential and Proprietary Information
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+if any, whose employees are not involved in the labor dispute may terminate the applicable SOW by giving written notice if
+such dispute has not ceased after fifteen (15) days.
+
+SECTION 11. Notices. Al] notices and other communications must be in writing and will be deemed to have been given to
+the address as set forth below, or to such other address as may be designated in writing, if sent by registered or certified mail,
+with return receipt requested, or by a nationally recognized overnight carrier. The notice address for Novitex is: Director,
+Contracts, Novitex Enterprise Solutions, Inc., 300 First Stamford Place, Second Floor West, Stamford, CT 06902. The notice
+address for Customer is: General Counsel, Blackhawk Network, Inc., 6220 Stoneridge Mall Road, Pleasanton, CA 94588,
+
+SECTION 12. Authority and Compliance with Laws.
+
+(a) Neither party will discriminate against any personnel because of age, race, gender, sexual orientation, religion,
+ancestry, color, national origin, marital status, veteran status, disability, or any other factors not related Lo a person’s
+ability to do a job in accordance with federal, state or local law.
+
+(b) Each party will comply with the provisions of all applicable federal, state and local laws, ordinances, statutes, rules,
+regulations, and license and permit requirements applicable to it with respect to the Services provided under a SOW
+including, but not limited to, labor and employment law, immigration law, health and safety law, and environmental
+
+law.
+
+(c) Customer agrees that it will be solely responsible for compliance with the Private Express Statutes and any applicable
+export laws and regulations.
+
+(d) To the extent applicable, for Novitex employees who are nursing mothers and who are working at Customer’s work
+location, a private location, other than a restroom, where such Novitex employees may express milk, in accordance
+with the requirements of the Patient Protection and Affordable Care Act, as amended by the Health Care & Education
+
+Affordability Reconciliation Act of 2010.
+
+(e) Except as set forth in an SOW, Novitex will not manage or handle hazardous wastes or hazardous chemicals nor ship
+hazardous materials or hazardous chemicals as defined in Department of Transportation regulations.
+
+(f)  Novitex will not perform the Services in conditions it reasonably deems to be unsafe for its employees. If a location
+is reasonably thought to be unsafe, Novitex and its consultants will be allowed to enter any area that its employees
+occupy or will occupy in order to conduct whatever investigation is necessary to ensure employee safety.
+
+SECTION 13. Miscellaneous.
+
+(a) In the event of a dispute (other than Novitex’ failure to meet a service level or performance standard and other than a
+termination for convenience by either party), the parties agree to follow the following dispute resolution process:
+
+Customer and Novitex should communicate and/or resolve any disputes at the applicable level in the Governance
+Model set forth below. Commencement of the Governance Model shall begin with a notice from one party to the
+other in accordance with Section 11 of this Agreement. At no time during the Governance Model process should
+any communications and/or disputes go outside of the Governance structure.
+
+Governance Model:
+
+For Novitex:
+
+Level 1-Service Delivery Manager
+Level 2-VP, Service Delivery
+Level 3-Industry Vice President
+
+For Blackhawk:
+Level 1-Director, Facilities
+Level 2-GVP, Human Resources
+
+Prensa tetihA LAN et eR ANoonnbiai nities LA Le
+
+Page 5 of 9 Novitex Confidential and Proprietary Information
+
+ 
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+{b)
+
+qd)
+
+g)
+
+h)
+
+Level 3- Chief Operating Officer
+
+Level 1: following the date of receipt of notice, 5 business days to resolve dispute
+Level 2: following the date of receipt of notice, 5 additional business days if not resolved during Level 1
+Level 3: following the date of receipt of notice, 5 additional business days if not resolved during Level 2
+
+In the event that the dispute is not resolved by the expiration of Level 3, then the parties thereafter shall be entitled to
+pursue all remedies available to them, at law or in equity. This Agreement (including all SOW(s)) is the entire agreement
+and supersedes all prior written or verbal agreements, proposals, understandings and discussions between the parties.
+Neither party will be subject to the terms contained on any pre-printed purchase order or other acknowledgement. This
+Agreement, including any SOW, cannot be modified unless agreed to in writing (including via e-mail) by both parties
+in accordance with the Change Control Procedure set forth in Exhibit A attached hereto atid tnade a part hereof. This
+Agreement will be governed and construed in accordance with the laws of the State of Delaware without regard to its
+
+conflicts of laws principles.
+
+The relationship between the parties hereunder will at all times be that of independent contractors, and nothing herein
+will be construed to create any partnership, joint venture, agency, employment or other similar relationship.
+
+No waiver will be deemed to be made by any party of any of its rights hereunder unless the same will be in a writing
+signed by the waiving party.
+
+This Agreement may not be assigned without the prior written consent of the other party (whether by operation of law
+or otherwise), except that either party may assign this Agreement to a parent, subsidiary, affiliate, or successor to
+substantially all of the assets of either party. Any purported assignment without consent will be deemed null and void
+
+and having no effect.
+
+This Agreement (and any SOW) may be signed in one or more counterparts, both of which taken together will
+constitute one instrument.
+
+Customer shall provide all services and supplies reasonably necessary for the operation of the Site (as defined in the
+SOW), including but not limited to, maintenance, utilities (including, without limitation, broadband internet access),
+a safe and secure working environment, HVAC, lighting and custodial services, etc.
+
+Customer shall provide a secure location at each Site for the storage of packages and securing confidential and
+sensitive information.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+Blackhawk Network, Inc. Novitex Enterprise Solutions, Inc.
+
+ 
+
+    
+
+E-Signed : 01/14/2015 09:02 AM CST
+4 NF Ce
+
+Srina Novaselsey
+
+irina novoselsky@novitex.com
+
+Name: Irina Movaselsky
+Title: Head -of Business Develapment
+
+ 
+       
+  
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title bee Yo Date: 1/14/15 —
+1; 107.181.26.252 ear agrereeemees
+FE \ a ranean Pees ht a ee eed
+Date h Lo — DoclO: 261501£2075249469
+Page 6 of 9 Novitex Confidential and Proprietary Information
+Doc ID: 20150114075249469
+
+Sertifi Electronic Signature
+MANAGEMENT SERVICES AGREEMENT
+
+EXHIBIT A
+
+CHANGE CONTROL PROCEDURE
+
+The Parties agree to comply with the following change control procedures to revise, amend, alter or otherwise change
+
+the services being provided under a SOW under this Agreement:
+
+29
+
+1. For purposes of this Exhibit, “Change” means any
+changes to a SOW that is not within the scope of the
+services under the SOW. To request a Change, either party
+may deliver a written request (the “Change Request”) to
+the other party that states, to the extent known: (i) the
+proposed Change, (ii) the purpose of the Change, (iii) the
+SOW provisions that are affected by the Change and (iv)
+the effective date for the Change.
+
+2. The Parties agree to discuss the scope and nature of the
+Change Request. As soon as practicable and to the extent
+applicable, Novitex will prepare and deliver to Customer a
+written statement (the “Change Order’; a form of Change
+Order is attached as an Exhibit hereto) describing any
+changes in methodology, procedures, prioritization,
+products, services, assignment of personnel and other
+resources that Novitex believes would be required to
+implement the Change. In addition, the Change Order will
+include, as appropriate or applicable, (i) the net increase or
+decrease in the pricing that would be applicable, (ii) a
+description of how the proposed Change would be
+implemented, (iii) the Performance Standards that would
+apply to the Change, (iv) a description of the effect, if any,
+such Change would have on the applicable SOW, (v) an
+estimation of all resources required to implement such
+Change, and (vi) any other information as may be relevant
+to the proposed Change.
+
+3. When both parties have agreed upon modifications
+specified in the Change Order, the Change Order will be
+signed by authorized representatives of both parties.
+Novitex shall have no obligation to commence work in
+connection with any Change Order before receiving the
+appropriate approval from Customer. Each approved
+Change Order as described above, shall be incorporated
+into and constitute an amendment to the applicable SOW.
+
+4, Notwithstanding the procedures above, if any Changes
+are necessary to meet a critical requirement and it is not
+reasonably practical to agree the contents of a Change Order
+in advance, then (i) Customer shall notify Novitex via email
+of the need for a critical Change (ii) Novitex shall notify
+Customer of the cost of the change and, if it receives e-mail
+confirmation to proceed, immediately or as soon as
+practicable make that Change, (iii) Novitex will then
+document the Change as soon as reasonably possible and
+(iv) the parties shall use their respective reasonable efforts
+to agree the relevant Change Order as soon as reasonably
+possible on the basis that if the parties cannot agree that
+Change Order within 30 days after it is submitted by
+Novitex, then Novitex, without penalty, may cease
+providing the Services that are the subject of the Change
+
+Order.
+
+Tema ath SLI AL ANTEATER ANA ORAM LSE LE ANAM AAR EAHA ARCS ABIES LEELA DOT ae 2
+
+Page 7 of 9
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+
+Novitex Confidential and Proprietary Information
+SAMPLE CHANGE ORDER
+(Long Form)
+
+This Change Order No.___ (this “Change Order’’) is issued pursuant that certain Management Services Agreement, dated as of
+
+, 201 1(the “Agreement”; capitalized terms used but not defined herein will have the meanings provided in the Agreement.),
+
+between Blackhawk Network, Inc. (“Customer”), and Novitex Enterprise Solutions, Inc. (“Novitex”) and [OPTION 1 IF AMENDING THE
+
+AGREEMENT - modifies the terms of the Agreement as more fully set forth below.]. [OPTION 2: IF AMENDING A SOW: and modifies the
+terms of the SOW No. , dated as of as more fully set forth below.]
+
+ 
+
+Change Commencement Date:
+Change Implementation Services/Schedule:
+On-Going Services:
+
+(This includes any additional personnel, equipment, etc.)
+
+Include details on the new services, (i.e: locations, hours of operation, performance standards, etc.)]
+
+[Agreement][SOW] Sections modified:
+Customer Responsibilities (including designated contact, equipment etc.):
+
+Fees/Payment Schedule:
+Address for invoices and notices (optional)
+
+Additional Provisions: (i.e.: Software License, X-Ray, and Termination Obligations
+
+accessnseinannemennd ines nceuaeoecepete hth sade eis neereeeearares CIR Aan nsahte he ARR An isn htm
+Page 8 of 9 Novitex Confidential and Proprietary Information
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+IN WITNESS THEREOF, the parties have caused their duly authorized representatives to execute this Change Order No.
+. (PLEASE NOTE: SIGNATURES NOT REQUIRED IF THIS CHANGE ORDER IS IN E-MAIL FORM.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Blackhawk Network, Inc. Novitex Enterprise Solutions, Inc.
+Name: Name:
+Title: Title; .. 7
+Date: Date:
+Page 9 of 9 Novitex Confidential and Proprietary Information
+
+Doc ID: 20150114075249469
+Sertifi Electronic Signature
+Novitex Cost Center Profile
+
+ 
+
+ADF - ADF Vv
+
+EMC-540100  W
+
+ 
+
+ 
+
+ 
+
+   
+
+**Please Check One** Opening up a new Cost Center
+1D 2/1/2015
+
+ 
+
+ 
+
+ar
+er
+
+FIS-Financial Services Vie
+|
+|
+|
+
+All New Cost Centers Plat be Approved Bye a Novitex Finance Manager
+
+SDM
+
+EL
+
+Jeff Mitter
+
+ASL/EM
+
+| mmnieeeemeenmeetenemenll
+
+CEM
+
+Lo
+|
+
+Y/N
+
+David Marks
+4/21/2015
+
+Finance Director
+
+K. aE
+
+ 
+
+Management Information
+SDM Email Address
+
+Finance Mgr SDM Phone #
+
+SDM Fax #
+
+SDM EE#
+
+[Ld
+
+EL EE#
+
+4846121
+
+ASL/IEM EE #
+
+Ld
+
+CEM EE#
+
+Ld
+
+Cost Center
+
+Parent & Child Acct. IN [| si
+Contract Billing # re |
+
+Equipment Only Acct. in
+
+Industry Type | Financial v
+Type of Work been Done Support Center vi
+Type of Account = Other aa
+
+ 
+
+ 
+
+[Ld
+Ld
+
+Information
+
+# of Employees| _15|
+eect Billing Address #
+
+ 
+
+Fee SERIE ERS i Roniracd Oheteesle amine nn aah Sa [ee ~ Contract Changes/Comments ee s:
